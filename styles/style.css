@@ -1,4 +1,4 @@
-/* затемняющий overlay для карточек */
+/* затемняющий overlay для карточек и секции cover */
 .overlay {
   position: absolute;
   top: 0;
